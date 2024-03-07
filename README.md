@@ -56,3 +56,6 @@ Working domains saved to output_domains.txt
 
 Total elapsed time: 2.34 seconds
 Estimated time to complete: 10.00 seconds
+
+
+# This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
